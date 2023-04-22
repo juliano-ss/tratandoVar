@@ -1,8 +1,3 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Project/Maven2/JavaApp/src/main/java/${packagePath}/${mainClassName}.java to edit this template
- */
-
 package com.mycompany.tratandovar;
 
 import java.util.InputMismatchException;
@@ -24,7 +19,7 @@ public class TratandoVar {
             soma1 = ler.nextInt();
         } catch (InputMismatchException e) {
             System.out.println("Valor inválido! Digite apenas números inteiros.");
-            return; // encerra o programa
+            return;
         }
 
         System.out.println("Digite o segundo valor: ");
@@ -33,7 +28,7 @@ public class TratandoVar {
             soma2 = ler.nextInt();
         } catch (InputMismatchException e) {
             System.out.println("Valor inválido! Digite apenas números inteiros.");
-            return; // encerra o programa
+            return;
         }
 
         int soma = soma1 + soma2;
