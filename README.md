@@ -22,4 +22,4 @@ O objetivo do programa é demonstrar como tratar exceções no caso de um usuár
 • O mesmo processo é repetido para o segundo valor. Em seguida, os dois valores são somados e o resultado é exibido na tela.
 
 • Se tudo ocorrer bem, o programa será encerrado normalmente.
-Se ocorrer algum erro, como um valor inválido inserido pelo usuário, o programa exibirá uma mensagem de erro e terminará a execução.
+Se ocorrer algum erro, como um valor inválido inserido pelo usuário, o programa exibirá uma mensagem de erro e terminará a execução. Esse código foi desenvolvimento no intuito de estudos de lógica de programação.
